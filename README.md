@@ -1,1 +1,2 @@
 # odin-recipes
+A website where people from different culture can come together to share their food recipes, find help when it comes to food and have a feel and experience of other human culture through food.
