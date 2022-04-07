@@ -1,0 +1,63 @@
+.pancake {
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+    align-items: center;
+}
+
+.pancake img {
+    height: auto;
+    width:  20%;
+    
+}
+
+.pancake h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #E3B261;
+}
+
+.desc {
+    color: #E3B261;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.desc__para {
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.ing {
+    color: #E3B261;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.ing__list li {
+    margin-bottom: 3px;
+    display: block;
+    text-align: left;
+}
+
+.steps {
+    color: #E3B261;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.step__list li {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.notes {
+    color: #E3B261;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.pancake a {
+    color: #E3B261;
+}
